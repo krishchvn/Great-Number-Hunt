@@ -1,0 +1,5 @@
+256473
+
+The total sum is 256473.
+
+The code is on: https://github.com/krishchvn/Great-Number-Hunt
